@@ -1,0 +1,42 @@
+[INFO] - 2023-12-07 11:19:17,974 ---> Se desencripto la liga exitosamente
+[INFO] - 2023-12-07 11:19:23,911 ---> Se desencripto la liga exitosamente
+[INFO] - 2023-12-07 11:19:24,011 ---> Se encontro la LIGA correctamente
+[INFO] - 2023-12-07 11:19:31,360 ---> Se desencripto la liga exitosamente
+[INFO] - 2023-12-07 11:19:31,992 ---> Las contrasenas no coinciden. Puede acceder al cambio de contrasena
+[INFO] - 2023-12-07 11:19:32,550 ---> URL: [http://localhost:8000/recuperar-contrasena/usuario?liga=aWRVc3VhcmlvPTJ8aWRMaWdhPTk=] - Metodo: [POST] ---> Respuesta: Proceso RECUPERACION DE CONTRASENA terminado satisfactoriamente
+[INFO] - 2023-12-07 11:20:03,641 ---> Consultando el usuario
+[INFO] - 2023-12-07 11:20:04,427 ---> Creando token
+[INFO] - 2023-12-07 11:20:04,470 ---> URL: [http://localhost:8000/login] - Metodo: [POST] ---> Respuesta: Proceso LOGIN DE USUARIO terminado satisfactoriamente
+[INFO] - 2023-12-07 11:20:18,971 ---> Se encontró el correo del usuario para el envio del email
+[WARNING] - 2023-12-07 11:20:18,972 ---> No se encontro un usuario asociado con ese correo electronico.
+[WARNING] - 2023-12-07 11:21:03,984 ---> El correo ya se encuentra asociado a una cuenta
+[INFO] - 2023-12-07 11:21:03,992 ---> Se registro la persona correctamente
+[INFO] - 2023-12-07 11:21:03,992 ---> Se registro el usuario correctamente
+[INFO] - 2023-12-07 11:21:04,005 ---> Operacion realizada correctamente
+[INFO] - 2023-12-07 11:21:04,005 ---> URL: [http://localhost:8000/registro/crear] - Metodo: [POST] ---> Respuesta: Proceso REGISTRO DE USUARIO terminado satisfactoriamente
+[INFO] - 2023-12-07 11:21:16,789 ---> Consultando el usuario
+[INFO] - 2023-12-07 11:21:17,335 ---> Creando token
+[INFO] - 2023-12-07 11:21:17,335 ---> URL: [http://localhost:8000/login] - Metodo: [POST] ---> Respuesta: Proceso LOGIN DE USUARIO terminado satisfactoriamente
+[INFO] - 2023-12-07 11:21:27,997 ---> Se encontró el correo del usuario para el envio del email
+[INFO] - 2023-12-07 11:21:28,002 ---> Se genero la liga correctamente.
+[INFO] - 2023-12-07 11:21:28,021 ---> Se registro la LIGA correctamente
+[INFO] - 2023-12-07 11:21:29,126 ---> Se envio el email al usuario pedro2076r@gmail.com correctamente.
+[INFO] - 2023-12-07 11:21:44,831 ---> Se desencripto la liga exitosamente
+[INFO] - 2023-12-07 11:21:44,834 ---> Se encontro la LIGA correctamente
+[INFO] - 2023-12-07 11:21:52,670 ---> Se desencripto la liga exitosamente
+[INFO] - 2023-12-07 11:21:53,371 ---> Las contrasenas no coinciden. Puede acceder al cambio de contrasena
+[INFO] - 2023-12-07 11:21:53,924 ---> URL: [http://localhost:8000/recuperar-contrasena/usuario?liga=aWRVc3VhcmlvPTN8aWRMaWdhPTEw] - Metodo: [POST] ---> Respuesta: Proceso RECUPERACION DE CONTRASENA terminado satisfactoriamente
+[INFO] - 2023-12-07 11:22:03,260 ---> Consultando el usuario
+[WARNING] - 2023-12-07 11:22:03,846 ---> Contraseña incorrecta
+[INFO] - 2023-12-07 11:22:03,846 ---> URL: [http://localhost:8000/login] - Metodo: [POST] ---> Respuesta: Proceso LOGIN DE USUARIO terminado satisfactoriamente
+[INFO] - 2023-12-07 11:22:09,832 ---> Consultando el usuario
+[INFO] - 2023-12-07 11:22:10,488 ---> Creando token
+[INFO] - 2023-12-07 11:22:10,488 ---> URL: [http://localhost:8000/login] - Metodo: [POST] ---> Respuesta: Proceso LOGIN DE USUARIO terminado satisfactoriamente
+[INFO] - 2023-12-07 11:22:37,424 ---> Se desencripto la liga exitosamente
+[INFO] - 2023-12-07 11:22:37,427 ---> Se encontro la LIGA correctamente
+[INFO] - 2023-12-07 11:22:46,029 ---> Se desencripto la liga exitosamente
+[INFO] - 2023-12-07 11:22:46,033 ---> Se encontro la LIGA correctamente
+[INFO] - 2023-12-07 11:22:54,885 ---> Se desencripto la liga exitosamente
+[WARNING] - 2023-12-07 11:22:55,426 ---> Las contrasenas son iguales, la nueva contrasena no puede ser la misma que la anterior.
+[INFO] - 2023-12-07 11:23:17,044 ---> Se desencripto la liga exitosamente
+[INFO] - 2023-12-07 11:23:17,047 ---> Se encontro la LIGA correctamente
